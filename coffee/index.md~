@@ -3,4 +3,10 @@ layout: page
 title:  "Coffee!"
 ---
 Here be **coffee**!
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/800px-A_small_cup_of_coffee.JPG)
+
+<a href="/images/coffee.jpg" data-lightbox="image-1" data-title="My caption">
+  <img src="/images/coffee.jpg" width="100" alt="Coffee">
+</a>
+<a href="/images/animals.jpg" data-lightbox="image-1" data-title="My caption">
+  <img src="/images/coffee.jpg" width="100" alt="animals">
+</a>
